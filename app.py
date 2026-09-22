@@ -49,7 +49,7 @@ st.sidebar.title("🎯 Simulador d'Impacte Àgil")
 metodologia = st.sidebar.selectbox("Tria la metodologia a visualitzar:", 
     ["1. Scrum (Planificació vs Burnout)", 
      "2. Kanban (WIP vs Colls d'ampolla)", 
-     "3. Lean (MVP vs Deixall/Waste)", 
+     "3. Lean (MVP vs Deixalla/Waste)", 
      "4. XP (TDD vs Deute Tècnic)"])
 
 if st.sidebar.button("🔄 Reiniciar Simulador"):
